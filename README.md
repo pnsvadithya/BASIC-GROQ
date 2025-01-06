@@ -1,6 +1,6 @@
 THIS IS A BASIC GROQ APP DEVELOPED WITH STREAMLIT.
 
-Features
+#Features
 Model Selection: Users can select between mixtral-8x7b-32768, llama2-70b-4096, Gemma-7b-it, llama2-70b-4096, llama3-70b-8192, and lama3-8b-8192 models to tailor the conversation according to each model's capabilities.
 Chat History: The app maintains a session-based chat history, allowing for a continuous conversation flow during the app session.
 Dynamic Response Generation: Utilizes a generator function to stream responses from the Groq API, providing a seamless chat experience.
